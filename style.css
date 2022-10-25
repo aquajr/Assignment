@@ -1,0 +1,16 @@
+h1 {
+    /* margin-left: 200px; */
+    font-size: 60px;
+    color: linear-gradient(to right, red, orange, yellow, green,
+    rgb(0, 153, 255), rgb(0, 9, 92), purple) 1;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h2, h3 {
+    font-size: 40px;
+    background-color: grey;
+}
